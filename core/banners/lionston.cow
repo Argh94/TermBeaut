@@ -1,0 +1,36 @@
+##
+## A mysterious turtle...
+##
+$the_cow = <<EOC;
+    $thoughts
+                     ':oxOKXK '; 0XKOxo:'                     
+                .:xKMMMMWX0k, XN.'O0XWMMMWKx:.                
+             .oKMMMXkc,.     dMMk     .,ckXMMMKo.             
+           cKMMWO:.       ..'KKXN:.        .:OWMM0:           
+         lNMMK:      .....        ......      .cKMMNl         
+       ;XMMK;      '.                   ..       ;KMMX,       
+      kMMN:     ...                       .'       :NMMx      
+     0MMK.     ,.                           '.      .KMM0     
+    kXXO      :                              '.       OXXx    
+    ,,,,,,,,,;:                               o;;;;;;;;;;,.   
+  ...lKMMMMMMM:  .                         '. kMMMMMMMMKl...  
+  KMK, .lXMMMMo .MWKx:.               .:xKWMo NMMMMMXo. ,KMK  
+ .MMM;    'dXMX  KMMMMM0l'         'l0MMMMMM.,MMMNd,    ;MMM  
+ .MMM.       ,xl .kNMMMMMMWKd.  lKWMMMMMMXO, KWk;       .MMM. 
+ .MMM.          ;.   .,;::;' ::x .',,,'.    ':          .MMM. 
+  MMM;          :           cN,KO           ..          :MMW  
+  0MMk         .'   .cOXK   .,  c    dXNK.  '.          OMMO  
+  'MMM.         ...kkKMMK     .  ;   NMMNdx;           .MMM'  
+   dMMX           dMMMMMM' d  x .l  xMMMMMM0          .XMMo   
+    kMMK.        'MMMMMMMc :  o .,  MMMMMMMMc        .KMMk    
+     kMMN'       KMMMMMMMl ;  l .'  MMMMMMMMN       'NMMk     
+      oMMWl     cMMMMMMWk: ;. o '. .cdNMMMMMMO     oWMWo      
+       .0MMNc  .WMMMWk;  , :, d :' ,   'dNMMMM:  lNMMO.       
+         ;KMM; KMWk:.    ..;:.k ;; c      ,dNMW..WMK;         
+           ,o oOc..          ......        '.,xO ;,           
+              . lXMW0d:'.            .':d0WMWd.               
+                 ,oONMMMMWNK0OOOO0KNWMMMMXOo,                 
+                     .':ldkO0KXKK0Okdl:'.                                                                       
+
+       
+EOC

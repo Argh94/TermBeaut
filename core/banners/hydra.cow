@@ -1,0 +1,38 @@
+##
+## A mysterious turtle...
+##
+$the_cow = <<EOC;
+    $thoughts
+                            ..      .                   
+                           .'. ',,'..                   
+                          ..;,,,;;:,..  .'              
+                          .l::::::ccl.  :KOOkxx;        
+                       .l:,;:::::oddd'  ' coK0X0'.      
+              '..        xOlclokNKd:c'.o,'.ll';dk,'.    
+           ,'''''''...',   xddddO;;0;';l kOOX0x';k..'   
+       .'',;:::ccc;;,,....,.';oc';do;.;.  xK00KKXo.  .  
+     .';;cdKOXXNNXXOc;;...;d0KOKO0k;.    .XNKk0XX,..    
+   ,clko .,ko     .XNo;,...xOXXKKO;'    ,0NNXKXXd..     
+         .kl       .Nk;,..'lKNOOx;.  .'dXNNXXXXl..'     
+         k.        ;Xl;..l00XN0x, .;cONNNXNXKd;''..     
+        ..        :Ox;;oOKXNNKl;::kNWNKXXXOo;'.,        
+          .     .oKxck0KKXXKxoOKNWXKKK0xl;''. .         
+               .dKOoKKKKXNX0KKNWXK0ko:''  .             
+              .lXXxKXXKKK0KXXXKkdc;,'.'..',. ''         
+              .KK0OKKK0XXXKKK0l;;;;;,'''...'''..',      
+               KKKKKXKXKKKKXXo;;;;;;;,,,,,,,,,''....    
+               .KKKKKKKKKKKKKo;;;;;;;,,,,,,,,,''.....   
+                .KXXXXXXXXXKKOl;;;;;;,,,,,,,,'''....    
+                  oKKKKKKKKKXXX0dl;;;,,,'        ...    
+                    .OKXXKKKKKKXWNX0:          ....     
+                    '.':c:.oxoo    .'''''''''''.        
+                     ..    ..    .'.          .         
+                                 ..        ,,,.         
+                                 ..'      .. .          
+                                    .''''.              
+                                                        
+
+                                                     
+
+       
+EOC

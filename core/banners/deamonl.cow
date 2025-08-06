@@ -1,0 +1,35 @@
+##
+## A mysterious turtle...
+##
+$the_cow = <<EOC;
+    $thoughts
+                                        .            
+          :0;                           ;Kc          
+        'XM0                             KMW:        
+       lMMMc                             cMMMx       
+      ;MMMMd                             cMMMMc      
+      dMMMM0                             xMMMMx      
+      OMMMMM,                           'WMMMMK      
+      lMMMMMX.      , .l'   k. .       .KMMMMMo      
+       kMMMMMMk;   o0  .WO .Wd Nc    ;kMMMMMMk       
+        OMMMMMMMNd.oMXc 0M0MMc:MX :OWMMMMMMMO        
+         lMMMMMMMMMK0MMWMMMMKxMMKKMMMMMMMMMo         
+          .dNMMMMMMMMMMMMMMMMMMMMMMMMMMMNd.          
+             dMMMMMMMMMMMMMMMMMMMMMMMMN;             
+    .,:lodddOMMMMMMMMMMMMMMMMMMMMMMMMMMWxxxdolc;.    
+  .,;cdOWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0dc:;'. 
+         .dWMMMM0MMMOMMMMMMMMMMMOMMWKMMMMMk'         
+     ;:    .KMMMlMMMlMMMMMMMMMMMcMM0OMMMN.    ::     
+      ,XO:   OMMkMMMKMMMMMMMMMMMKMMKKMMX. .:ON;      
+        OMMKx.XMMl.:okXMMMMMMMNOd:':MMW.xKMMK.       
+         dMMMooMMX.    cMMMMMx     OMMO,MMMk         
+          dMMN.WMMWk.xKMMMMMMMNk.xNMMM;OMMx          
+           0MWolMMMWlMMMMMWMMMMMoXMMM0,WMK           
+           'N;W,kMMMMMMMMW:NMMMMMMMMX'NlK:           
+            c .x,oMMMMMMMMMMMMMMMMM0'k, ,'           
+                  'KMMMWxdoodNMMMNc                  
+                    'dXMMMMMMMNx;                    
+                       .:dkxc.                       
+
+
+EOC
