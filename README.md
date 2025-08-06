@@ -4,6 +4,8 @@
 [![Termux Compatible](https://img.shields.io/badge/Termux-Compatible-brightgreen)](https://termux.com/)
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Termux-orange)](https://github.com/Argh94/TermBeaut)
 [![Stars](https://img.shields.io/github/stars/Argh94/TermBeaut?style=social)](https://github.com/Argh94/TermBeaut/stargazers)
+<img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
+</p>
 
 **TermBeaut** ابزاری قدرتمند برای شخصی‌سازی محیط ترمینال (مخصوص Termux و هر ترمینال لینوکسی) است که با بنرها و فونت‌های متنوع، ظاهر ترمینال شما را منحصربه‌فرد، جذاب و کاملاً حرفه‌ای می‌کند!
 
