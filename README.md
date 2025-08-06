@@ -91,9 +91,7 @@ rm -f termbeaut.py
 
 ساخته شده با عشق توسط **Argh94**
 
-[![Instagram](https://img.shields.io/badge/Instagram-argh94-red?logo=instagram)](https://instagram.com/argh94)
-[![Telegram](https://img.shields.io/badge/Telegram-argh94-blue?logo=telegram)](https://t.me/argh94)
-[![Issues](https://img.shields.io/badge/GitHub-Issues-lightgrey?logo=github)](https://github.com/Argh94/TermBeaut/issues)
+[![GitHub](https://github.com)](https://github.com/argh94)
 
 ---
 
@@ -110,14 +108,7 @@ rm -f termbeaut.py
 
 ---
 
-## ⚡ نمونه بنر سفارشی
 
-```text
-█████████████████████████
-█   TermBeaut Rocks!   █
-█████████████████████████
-         By Argh94
-```
 
 ---
 
