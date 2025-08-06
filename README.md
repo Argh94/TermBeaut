@@ -27,7 +27,7 @@
 
 | نمونه محیط  |  نمونه بنر  |  نمونه منو  |  نمونه فونت  |
 |:-----------:|:-----------:|:-----------:|:-----------:|
-| <img src="https://github.com/Argh94/TermBeaut/blob/main/image/Nfin.png" width="180"/> | <img src="https://raw.githubusercontent.com/Argh94/TermBeaut/main/demo/demo2.png" width="180"/> | <img src="https://raw.githubusercontent.com/Argh94/TermBeaut/main/demo/demo3.png" width="180"/> | <img src="https://raw.githubusercontent.com/Argh94/TermBeaut/main/demo/demo4.png" width="180"/> |
+| <img src="https://github.com/Argh94/TermBeaut/blob/main/image/moh3.png" width="180"/> | <img src="https://github.com/Argh94/TermBeaut/blob/main/image/bn.png" width="180"/> | <img src="https://github.com/Argh94/TermBeaut/blob/main/image/Termux-1.png" width="180"/> | <img src="https://github.com/Argh94/TermBeaut/blob/main/image/Nfin.png" width="180"/> |
 
 </div>
 
