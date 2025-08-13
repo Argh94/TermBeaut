@@ -118,4 +118,8 @@ rm -f termbeaut.py
 
 هر سوال، پیشنهاد یا نظری داشتی، خوشحال می‌شویم همین‌جا یا در گیت‌هاب پیام بدهی!
 
+## Activity
+![Alt](https://repobeats.axiom.co/api/embed/6e88aa7d66986824532760b5b14120a22c8ca813.svg "Repobeats analytics image")
+
+
 **موفق و خلاق باشی!**
